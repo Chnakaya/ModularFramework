@@ -12,7 +12,7 @@ public class HomePage {
 	
 	private static WebElement element = null;
 	private static WebElement logout;
-
+	//second commit
 	//Click on Sign link present on home page
 	public static WebElement link_MyAccount(WebDriver driver){
 	
